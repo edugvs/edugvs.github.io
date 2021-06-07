@@ -36,7 +36,7 @@
 <img align="left" alt="SQL" width="30px" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" />
 <img align="left" alt="Google Analytics" width="30px" src="https://logodownload.org/wp-content/uploads/2018/03/google-analytics-logo-1.png" />
 <img align="left" alt="Microsoft Azure Machine Learning" width="30px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.5.1/1556575437282/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Microsoft Power BI" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Microsoft Power BI" width="30px" src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?mode=scale&q=90&h=300&w=300" />
 <img align="left" alt="Microsoft Office" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/864px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" />
 
 <br />
