@@ -1,7 +1,7 @@
 ### Hi there, I'm Eduardo Gonçalves - aka [edugvs][website] 👋
 
 [![Website](https://img.shields.io/website?label=edugvs.github.io/&style=for-the-badge&url=https://edugvs.github.io/)](https://edugvs.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/edugvs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Biomedical Scientist, Researcher, Teacher, and Data Scientist!!
 
