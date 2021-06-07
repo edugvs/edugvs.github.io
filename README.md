@@ -26,7 +26,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
-[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />]
+[<img align="left" alt="Pandas" width="26px" src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" />]
 [<img align="left" alt="NumPy" width="26px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />]
 [<img align="left" alt="Seaborn" width="26px" src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" />]
 [<img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />]
