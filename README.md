@@ -16,9 +16,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="edugvs.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="edugvs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="edugvs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="edugvs.github.io" width="22px" src="https://photos.app.goo.gl/gsDekuGjKGwjU4EP7" />][website]
+[<img align="left" alt="edugvs | Twitter" width="22px" src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
+[<img align="left" alt="edugvs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="edugvs | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 <br />
