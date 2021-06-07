@@ -25,11 +25,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 [<img align="left" alt="Pandas" width="30px" src="https://mymltalks.com/wp-content/uploads/2021/01/pandas.jpg" />]
 [<img align="left" alt="NumPy" width="30px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />]
 [<img align="left" alt="Seaborn" width="30px" src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" />]
-[<img align="left" alt="Plotly" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />]
+[<img align="left" alt="Plotly" width="30px" src="https://www.r-project.org/conferences/useR-2014/images/plotly_logo.png" />]
 [<img align="left" alt="Scikit-Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />]
 [<img align="left" alt="Apache Spark" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" />]
 [<img align="left" alt="R Language" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />]
