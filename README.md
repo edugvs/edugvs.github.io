@@ -40,7 +40,6 @@
 [<img align="left" alt="Microsoft Office" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/864px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" />]
 
 <br />
-<br />
 
 ---
 
