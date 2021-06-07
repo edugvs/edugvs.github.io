@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Gonçalves - aka [edugvs][website] 👋
 
-[![Website](https://edugvs.github.io/)
+[![Website](https://img.shields.io/website?label=edugvs.github.io/&style=for-the-badge&url=https://edugvs.github.io/)](https://edugvs.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Biomedical Scientist, Researcher, Teacher, and Data Scientist!!
@@ -78,7 +78,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="edugvs's GitHub Stats" src="https://github-readme-stats.edugvs.vercel.app/api?username=edugvs&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
