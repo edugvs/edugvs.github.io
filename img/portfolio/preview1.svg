@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cover1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b1c08"/>
+      <stop offset="100%" stop-color="#7a4f12"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="80%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#e0a530" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#e0a530" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#cover1)"/>
+  <rect width="1280" height="640" fill="url(#glow1)"/>
+
+  <!-- radiating alert rings -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2">
+    <circle cx="1020" cy="200" r="60"/>
+    <circle cx="1020" cy="200" r="105"/>
+    <circle cx="1020" cy="200" r="150"/>
+  </g>
+
+  <!-- badge icon top-left: bell -->
+  <rect x="60" y="56" width="52" height="52" rx="10" fill="#ffffff" fill-opacity="0.12"/>
+  <path d="M86 66 C79 66 74 71 74 78 V90 L68 98 H104 L98 90 V78 C98 71 93 66 86 66 Z" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M81 100 C81 103.3 83.7 106 87 106" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- title -->
+  <text x="58" y="330" font-family="Poppins, sans-serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="1">SALES</text>
+  <text x="58" y="395" font-family="Poppins, sans-serif" font-size="58" font-weight="700" fill="#f0b94d" letter-spacing="1">BONIFICATION</text>
+
+  <!-- caption -->
+  <text x="60" y="560" font-family="Raleway, sans-serif" font-size="18" fill="#ecdcc0">Mini Project · Process Automation</text>
+  <line x1="60" y1="578" x2="1220" y2="578" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
+</svg>

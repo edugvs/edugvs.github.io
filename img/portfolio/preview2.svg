@@ -1,0 +1,37 @@
+<svg viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cover2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08211f"/>
+      <stop offset="100%" stop-color="#0e5c56"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="80%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#2fd1c4" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#2fd1c4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#cover2)"/>
+  <rect width="1280" height="640" fill="url(#glow2)"/>
+
+  <!-- simple bar chart motif -->
+  <g fill="#ffffff" fill-opacity="0.14">
+    <rect x="900" y="260" width="36" height="120"/>
+    <rect x="950" y="200" width="36" height="180"/>
+    <rect x="1000" y="140" width="36" height="240"/>
+    <rect x="1050" y="230" width="36" height="150"/>
+    <rect x="1100" y="180" width="36" height="200"/>
+  </g>
+
+  <!-- badge icon top-left: chart -->
+  <rect x="60" y="56" width="52" height="52" rx="10" fill="#ffffff" fill-opacity="0.12"/>
+  <path d="M70 100 L70 68 M70 100 L102 100" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M76 94 L86 82 L94 88 L102 74" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- title -->
+  <text x="58" y="330" font-family="Poppins, sans-serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="1">CUSTOMER</text>
+  <text x="58" y="395" font-family="Poppins, sans-serif" font-size="58" font-weight="700" fill="#5fe0d3" letter-spacing="1">CHURN ANALYSIS</text>
+
+  <!-- caption -->
+  <text x="60" y="560" font-family="Raleway, sans-serif" font-size="18" fill="#c7ece7">Data Analysis · Telecom Company</text>
+  <line x1="60" y1="578" x2="1220" y2="578" stroke="#ffffff" stroke-opacity="0.15" stroke-width="1"/>
+</svg>
