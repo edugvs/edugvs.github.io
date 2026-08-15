@@ -18,7 +18,7 @@
 
     <rect x="600" y="220" width="150" height="90" rx="10" fill="#0563bb"/>
     <text x="675" y="258" text-anchor="middle" fill="#ffffff">Provisioning</text>
-    <text x="675" y="276" text-anchor="middle" font-size="11" font-weight="400" fill="#dcebfb" font-family="Raleway, sans-serif">IAM / Lake Formation</text>
+    <text x="675" y="276" text-anchor="middle" font-size="11" font-weight="400" fill="#dcebfb" font-family="Raleway, sans-serif">IAM / access control</text>
 
     <rect x="790" y="220" width="90" height="90" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
     <text x="835" y="258" text-anchor="middle" fill="#0563bb" font-size="13">Audit</text>
