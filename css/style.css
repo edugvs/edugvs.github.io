@@ -436,7 +436,7 @@ section {
   height: 48px;
 }
 
-.facts .count-box span {
+.facts .count-box .count-value {
   font-size: 36px;
   display: block;
   font-weight: 600;
