@@ -53,22 +53,19 @@
     fetch(action, {
       method: 'POST',
       body: formData,
-      headers: {'X-Requested-With': 'XMLHttpRequest'}
+      headers: {'Accept': 'application/json'}
     })
-    .then(response => {
-      if( response.ok ) {
-        return response.text()
-      } else {
-        throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
-      }
-    })
-    .then(data => {
+    .then(response => response.json().then(data => ({ ok: response.ok, data: data })))
+    .then(({ ok, data }) => {
       thisForm.querySelector('.loading').classList.remove('d-block');
-      if (data.trim() == 'OK') {
+      if (ok && data && data.ok) {
         thisForm.querySelector('.sent-message').classList.add('d-block');
-        thisForm.reset(); 
+        thisForm.reset();
       } else {
-        throw new Error(data ? data : 'Form submission failed and no error message returned from: ' + action); 
+        let message = (data && data.errors)
+          ? data.errors.map(error => error.message).join(', ')
+          : 'Form submission failed. Please try again or email me directly.';
+        throw new Error(message);
       }
     })
     .catch((error) => {
