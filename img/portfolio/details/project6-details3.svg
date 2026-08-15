@@ -1,0 +1,57 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" font-weight="700" fill="#45505b">90-Day Implementation Roadmap</text>
+
+  <!-- timeline line -->
+  <line x1="60" y1="90" x2="840" y2="90" stroke="#d7e9fb" stroke-width="4"/>
+  <circle cx="150" cy="90" r="8" fill="#0563bb"/>
+  <circle cx="450" cy="90" r="8" fill="#0563bb"/>
+  <circle cx="750" cy="90" r="8" fill="#0563bb"/>
+
+  <g font-family="Poppins, sans-serif">
+    <!-- phase 1 -->
+    <rect x="40" y="130" width="220" height="330" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="150" y="160" text-anchor="middle" font-size="13" font-weight="700" fill="#0563bb">DAYS 1–30</text>
+    <text x="150" y="184" text-anchor="middle" font-size="17" font-weight="700" fill="#45505b">Assess &amp; Define</text>
+    <g font-family="Raleway, sans-serif" font-size="12.5" fill="#45505b">
+      <text x="65" y="220">• Governance maturity</text>
+      <text x="75" y="238">assessment</text>
+      <text x="65" y="266">• Map data domains &amp;</text>
+      <text x="75" y="284">critical assets</text>
+      <text x="65" y="312">• Define roles, RACI</text>
+      <text x="75" y="330">and policy scope</text>
+      <text x="65" y="358">• Shortlist catalog /</text>
+      <text x="75" y="376">access tooling</text>
+    </g>
+
+    <!-- phase 2 -->
+    <rect x="340" y="130" width="220" height="330" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="450" y="160" text-anchor="middle" font-size="13" font-weight="700" fill="#0563bb">DAYS 31–60</text>
+    <text x="450" y="184" text-anchor="middle" font-size="17" font-weight="700" fill="#45505b">Build &amp; Pilot</text>
+    <g font-family="Raleway, sans-serif" font-size="12.5" fill="#45505b">
+      <text x="365" y="220">• Stand up the Data</text>
+      <text x="375" y="238">Leadership Council</text>
+      <text x="365" y="266">• Pilot with 1–2 data</text>
+      <text x="375" y="284">domains</text>
+      <text x="365" y="312">• Draft access &amp;</text>
+      <text x="375" y="330">quality policies</text>
+      <text x="365" y="358">• Stand up the access</text>
+      <text x="375" y="376">request workflow</text>
+    </g>
+
+    <!-- phase 3 -->
+    <rect x="640" y="130" width="220" height="330" rx="10" fill="#0563bb"/>
+    <text x="750" y="160" text-anchor="middle" font-size="13" font-weight="700" fill="#dcebfb">DAYS 61–90</text>
+    <text x="750" y="184" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">Scale &amp; Monitor</text>
+    <g font-family="Raleway, sans-serif" font-size="12.5" fill="#eaf3fd">
+      <text x="665" y="220">• Roll out org-wide,</text>
+      <text x="675" y="238">domain by domain</text>
+      <text x="665" y="266">• Launch governance</text>
+      <text x="675" y="284">KPI dashboard</text>
+      <text x="665" y="312">• Set review cadence</text>
+      <text x="675" y="330">with the Council</text>
+      <text x="665" y="358">• Feed learnings back</text>
+      <text x="675" y="376">into policy v2</text>
+    </g>
+  </g>
+</svg>

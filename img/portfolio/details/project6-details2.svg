@@ -1,0 +1,44 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" font-weight="700" fill="#45505b">Data Access Governance Flow</text>
+
+  <g font-family="Poppins, sans-serif" font-size="14" font-weight="700">
+    <rect x="30" y="220" width="150" height="90" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="105" y="258" text-anchor="middle" fill="#0563bb">Access</text>
+    <text x="105" y="276" text-anchor="middle" fill="#0563bb">Request</text>
+
+    <rect x="220" y="220" width="150" height="90" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="295" y="258" text-anchor="middle" fill="#0563bb">Owner</text>
+    <text x="295" y="276" text-anchor="middle" fill="#0563bb">Approval</text>
+
+    <rect x="410" y="220" width="150" height="90" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="485" y="252" text-anchor="middle" fill="#0563bb">Steward</text>
+    <text x="485" y="270" text-anchor="middle" fill="#0563bb">Review</text>
+    <text x="485" y="288" text-anchor="middle" font-size="11" font-weight="400" fill="#728394" font-family="Raleway, sans-serif">quality + LGPD check</text>
+
+    <rect x="600" y="220" width="150" height="90" rx="10" fill="#0563bb"/>
+    <text x="675" y="258" text-anchor="middle" fill="#ffffff">Provisioning</text>
+    <text x="675" y="276" text-anchor="middle" font-size="11" font-weight="400" fill="#dcebfb" font-family="Raleway, sans-serif">IAM / Lake Formation</text>
+
+    <rect x="790" y="220" width="90" height="90" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="835" y="258" text-anchor="middle" fill="#0563bb" font-size="13">Audit</text>
+    <text x="835" y="276" text-anchor="middle" fill="#0563bb" font-size="13">Log</text>
+  </g>
+
+  <g stroke="#a9c6e8" stroke-width="3" fill="none" marker-end="url(#arrow6)">
+    <line x1="180" y1="265" x2="216" y2="265"/>
+    <line x1="370" y1="265" x2="406" y2="265"/>
+    <line x1="560" y1="265" x2="596" y2="265"/>
+    <line x1="750" y1="265" x2="786" y2="265"/>
+  </g>
+
+  <defs>
+    <marker id="arrow6" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#a9c6e8"/>
+    </marker>
+  </defs>
+
+  <rect x="130" y="380" width="640" height="70" rx="10" fill="#f7f8f9"/>
+  <text x="450" y="410" text-anchor="middle" font-family="Raleway, sans-serif" font-size="13" fill="#45505b">Every request is traceable end-to-end — who asked, who approved,</text>
+  <text x="450" y="430" text-anchor="middle" font-family="Raleway, sans-serif" font-size="13" fill="#45505b">what was checked, and what was granted.</text>
+</svg>

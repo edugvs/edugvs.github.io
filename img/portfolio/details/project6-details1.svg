@@ -1,0 +1,42 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" font-weight="700" fill="#45505b">Data Governance Operating Model</text>
+
+  <!-- top: council -->
+  <rect x="300" y="80" width="300" height="80" rx="10" fill="#0563bb"/>
+  <text x="450" y="115" text-anchor="middle" font-family="Poppins, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Data Leadership Council</text>
+  <text x="450" y="140" text-anchor="middle" font-family="Raleway, sans-serif" font-size="13" fill="#dcebfb">Cross-functional forum · meets biweekly</text>
+
+  <!-- connectors -->
+  <g stroke="#a9c6e8" stroke-width="3" fill="none">
+    <path d="M450,160 L450,190 L150,190 L150,230"/>
+    <path d="M450,160 L450,230"/>
+    <path d="M450,160 L450,190 L750,190 L750,230"/>
+  </g>
+
+  <!-- role boxes -->
+  <g font-family="Poppins, sans-serif">
+    <rect x="30" y="230" width="240" height="120" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="150" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#0563bb">Data Owners</text>
+    <text x="150" y="288" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">Accountable for their</text>
+    <text x="150" y="306" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">domain's data quality</text>
+    <text x="150" y="324" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">and access decisions</text>
+
+    <rect x="330" y="230" width="240" height="120" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="450" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#0563bb">Data Stewards</text>
+    <text x="450" y="288" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">Day-to-day metadata,</text>
+    <text x="450" y="306" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">quality checks and</text>
+    <text x="450" y="324" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">catalog upkeep</text>
+
+    <rect x="630" y="230" width="240" height="120" rx="10" fill="#eef7ff" stroke="#0563bb" stroke-width="2"/>
+    <text x="750" y="262" text-anchor="middle" font-size="16" font-weight="700" fill="#0563bb">Governance Analyst</text>
+    <text x="750" y="288" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">Policy, tooling,</text>
+    <text x="750" y="306" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">enablement and</text>
+    <text x="750" y="324" text-anchor="middle" font-size="12.5" fill="#45505b" font-family="Raleway, sans-serif">KPI reporting</text>
+  </g>
+
+  <!-- bottom note -->
+  <rect x="130" y="400" width="640" height="70" rx="10" fill="#f7f8f9"/>
+  <text x="450" y="430" text-anchor="middle" font-family="Raleway, sans-serif" font-size="13" fill="#45505b">Policies flow down from the Council; issues and metrics flow back up —</text>
+  <text x="450" y="450" text-anchor="middle" font-family="Raleway, sans-serif" font-size="13" fill="#45505b">governance as a two-way loop, not a one-time document.</text>
+</svg>
